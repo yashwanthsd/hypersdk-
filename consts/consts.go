@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "DDC-Chain"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "DDumb Coin"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "DC"
 )
 
 var ID ids.ID
