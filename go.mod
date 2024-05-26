@@ -1,6 +1,6 @@
 module tokenvm
 
-go 1.20
+go 1.18
 
 require (
 	github.com/ava-labs/avalanche-network-runner v1.4.1
